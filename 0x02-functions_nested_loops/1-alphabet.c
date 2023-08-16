@@ -3,10 +3,12 @@
 /**
  * main - check the code
  *
+ * decsription: print_alphabet function
+ *
  * Return: Always 0.
 */
 
-int main(void)
+void print_alphabet(void)
 {
 	char num;
 
