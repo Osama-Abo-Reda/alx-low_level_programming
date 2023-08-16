@@ -13,8 +13,9 @@ void print_alphabet_x10(void);
 
 	while (i < 10)
 	{
-		for (num = 'a'; num <= 'z; num++)
+		for (num = 'a'; num <= 'z'; num++)
 			_putchar(num);
+
 		_putchat('\n');
 		i++;
 	}
