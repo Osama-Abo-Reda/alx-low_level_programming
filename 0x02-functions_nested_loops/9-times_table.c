@@ -18,7 +18,7 @@ void times_table(void)
 
 			total = num * multi;
 
-			if (tota; <= 9)
+			if (total <= 9)
 				_putchar(' ');
 			else
 				_putchar((total / 10) + 48);
